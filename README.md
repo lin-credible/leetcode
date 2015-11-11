@@ -1,6 +1,9 @@
 LeetCode
 ========
 
+As for me, I only read them sometimes.
+
+
 LeetCode C++ Solutions
 
 | Title | Solution | Add Date | Difficulty |
